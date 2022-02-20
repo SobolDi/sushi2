@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+  
+    padding: 5px;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(140, 255, 217)
+}
+body{   
+    background-color: #d6eaf8;
+
+}
+footer{
+   background-color: rgb(72, 243, 215);
+
+}
+header a{
+padding: 30px;
+background-color: rgb(91, 233, 190);
+border-radius: 30px;
+}
